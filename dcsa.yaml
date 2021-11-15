@@ -1,0 +1,17 @@
+---
+dcsa:
+  id: dcsa
+  name: Darwin College Students' Association
+  baseurl: "/"
+  imageSubfolder: "/images/"
+  managerClaimFormLocation: false
+  typeSingular: organisation
+  typeSingularUcfirst: part of the Universiy
+  administrators:
+    - mb2345
+    - dkb34  # Daniel, president
+  organisations:
+    dcsa:
+      organisationName: Darwin College Students' Association
+      profileBaseUrl: /dcsa
+      logoLocation: https://www.dcsa.darwin.cam.ac.uk/images/logo-transparent.png
