@@ -1,0 +1,19 @@
+---
+newnhamjcr:
+  id: newnhamjcr
+  name: Newnham JCR
+  baseUrl: "/"
+  imageSubfolder: "/images/"
+  managerClaimFormLocation: false
+  typeSingular: organisation
+  typeSingularUcfirst: part of Newnham JCR
+  administrators:
+    - mb2345
+    - rye23
+    - at903
+  organisations:
+    newnjcr:
+      organisationName: Newnham JCR
+      profileBaseUrl: https://newnhamjcr.co.uk
+      logoLocation: https://newnhamjcr.files.wordpress.com/2014/11/10409028_309559619252109_6595454792960153795_n.jpg
+

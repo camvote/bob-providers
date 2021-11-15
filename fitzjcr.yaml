@@ -1,0 +1,19 @@
+---
+fitzjcr:
+  id: fitzjcr
+  name: Fitzwilliam JCR
+  baseurl: "/"
+  imageSubfolder: "/images/"
+  managerClaimFormLocation: false
+  typeSingular: organisation
+  typeSingularUcfirst: part of the Universiy
+  administrators:
+    - mb2345
+    - jp862
+    - sa2024
+    - mb2344
+  organisations:
+    fitzjcr:
+      organisationName: Fitzwilliam JCR
+      profileBaseUrl: /fitzjcr
+      logoLocation: https://cdn.discordapp.com/attachments/814110758991429663/909430925824249886/256791497_174014921606274_8989386914655631232_n.jpg

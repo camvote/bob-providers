@@ -1,0 +1,18 @@
+---
+girtonmcr:
+  id: girtonmcr
+  name: Girton MCR
+  baseurl: "/"
+  imageSubfolder: "/images/"
+  managerClaimFormLocation: false
+  typeSingular: organisation
+  typeSingularUcfirst: part of the University
+  administrators:
+    - gc536
+    - mn546
+    - mb2345
+  organisations:
+    girtonmcr:
+      organisationName: Girton MCR
+      profileBaseUrl: /girtonmcr
+      logoLocation: https://www.heraldry-wiki.com/heraldrywiki/images/b/be/Cam-girton.jpg

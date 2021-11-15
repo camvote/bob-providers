@@ -1,0 +1,21 @@
+{
+  "magdalenejcr": {
+    "id": "magdalenejcr",
+    "name": "Magdalene JCR",
+    "baseUrl": "/magdalenejcr/",
+    "imageSubfolder": "/images/",
+    "managerClaimFormLocation": false,
+    "typeSingular": "organisation",
+    "typeSingularUcfirst": "part of Magdalene JCR",
+    "administrators": [
+      "mb2345", "mjh272", "krg28"
+    ],
+    "organisations": {
+      "magdalenejcr": {
+        "organisationName": "Magdalene JCR",
+        "profileBaseUrl": "",
+        "logoLocation": "https://cdn.discordapp.com/attachments/615554816923533323/905972625635958834/Cam-magdalene.jpg"
+      }
+    }
+  }
+}

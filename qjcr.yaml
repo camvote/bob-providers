@@ -1,0 +1,22 @@
+---
+qjcr:
+  id: qjcr
+  name: Queens' College JCR
+  baseUrl: "/"
+  imageSubfolder: "/images/"
+  managerClaimFormLocation: false
+  typeSingular: organisation
+  typeSingularUcfirst: part of the University
+  administrators:
+    - bpc38
+    - mb2345
+  organisations:
+    qjcr:
+      organisationName: QJCR
+      profileBaseUrl: https://qjcr.org.uk
+      logoLocation: https://qjcr.org.uk/content/squarelogo.png
+    qjcr-test:
+      organisationName: QJCR Test
+      profileBaseUrl: https://qjcr.org.uk
+      logoLocation: https://qjcr.org.uk/content/squarelogo.png
+

@@ -1,0 +1,21 @@
+---
+cudgs:
+  id: cudgs
+  name: CU Digital Gaming Society
+  baseurl: "/"
+  imageSubfolder: "/images/"
+  managerClaimFormLocation: false
+  typeSingular: organisation
+  typeSingularUcfirst: part of the Universiy
+  administrators:
+    - mb2345
+    - kla41
+    - bjb66
+    - abc38
+    - an545
+    - lbdw2
+  organisations:
+    rcsa:
+      organisationName: CU Digital Gaming Society
+      profileBaseUrl: https://cudgs.soc.srcf.net
+      logoLocation: https://cdn.discordapp.com/attachments/797157024810139679/906967245140410419/cudgs-text-transparent-centered.png

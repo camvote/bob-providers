@@ -1,0 +1,21 @@
+{
+  "sjcjcr": {
+    "id": "sjcjcr",
+    "name": "St John's College JCR",
+    "baseUrl": "/",
+    "imageSubfolder": "/images/",
+    "managerClaimFormLocation": false,
+    "typeSingular": "organisation",
+    "typeSingularUcfirst": "part of St John's College JCR",
+    "administrators": [
+      "pe284","car83"
+    ],
+    "organisations": {
+      "sjcjcr": {
+        "organisationName": "St John's College JCR",
+        "profileBaseUrl": "https://www.sjcjcr.com/",
+        "logoLocation": "https://www.joh.cam.ac.uk/themes/custom/sjc/assets/logo.svg"
+      }
+    }
+  }
+}
