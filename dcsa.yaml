@@ -10,6 +10,7 @@ dcsa:
   administrators:
     - mb2345
     - dkb34  # Daniel, president
+    - vdl20  # Secretary
   organisations:
     dcsa:
       organisationName: Darwin College Students' Association
