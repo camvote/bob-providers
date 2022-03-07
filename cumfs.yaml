@@ -12,7 +12,7 @@ cumfs:
     - bpc38
     - lw664
   organisations:
-    cumsa:
+    cumfs:
       organisationName: Cambridge University Motorsport Fans Society
       profileBaseUrl: https://cumfs.com/
       logoLocation: https://cdn.discordapp.com/attachments/679373334869311570/950510372346032159/274845962_373316024332306_6173170588714963846_n.png
