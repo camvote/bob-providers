@@ -1,5 +1,5 @@
 ---
-cumsa:
+cumfs:
   id: cumfs
   name: Cambridge University Motorsport Fans Society
   baseurl: "/"
