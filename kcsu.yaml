@@ -12,9 +12,9 @@ kcsu:
     - ahrf2
     - bs639
     - tcwp2
+    - rm2020
   organisations:
     kcsu:
       organisationName: King's College SU
       profileBaseUrl: https://kcsu.org.uk
       logoLocation: https://cdn.discordapp.com/attachments/797157024810139679/906159944225652746/image0.jpg
-
