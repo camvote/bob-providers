@@ -6,7 +6,7 @@ cudgs:
   imageSubfolder: "/images/"
   managerClaimFormLocation: false
   typeSingular: organisation
-  typeSingularUcfirst: part of the Universiy
+  typeSingularUcfirst: part of the University
   administrators:
     - mb2345
     - kla41
