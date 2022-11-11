@@ -1,0 +1,17 @@
+---
+lucyjcr:
+  id: lucyjcr
+  name: Lucy Cavendish JCR
+  baseUrl: "/"
+  imageSubfolder: "/images/"
+  managerClaimFormLocation: false
+  typeSingular: organisation
+  typeSingularUcfirst: part of Lucy Cav JCR
+  administrators:
+    - jmg237
+    - lp595
+  organisations:
+    jcsu:
+      organisationName: Lucy Cavendish JCR
+      profileBaseUrl: lucyjcr/
+      logoLocation: https://i.imgur.com/J5zR4W4.png
