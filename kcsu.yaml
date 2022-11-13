@@ -2,7 +2,7 @@
 kcsu:
   id: kcsu
   name: King's College SU
-  baseUrl: "/"
+  baseUrl: "/kcsu/"
   imageSubfolder: "/images/"
   managerClaimFormLocation: false
   typeSingular: organisation
@@ -16,5 +16,5 @@ kcsu:
   organisations:
     kcsu:
       organisationName: King's College SU
-      profileBaseUrl: https://kcsu.org.uk
+      profileBaseUrl: ''
       logoLocation: https://cdn.discordapp.com/attachments/797157024810139679/906159944225652746/image0.jpg

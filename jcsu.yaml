@@ -2,7 +2,7 @@
 jcsu:
   id: jcsu
   name: Jesus College Student Union
-  baseUrl: "/"
+  baseUrl: "/jcsu/"
   imageSubfolder: "/images/"
   managerClaimFormLocation: false
   typeSingular: organisation
@@ -14,6 +14,6 @@ jcsu:
   organisations:
     jcsu:
       organisationName: Jesus College Student Union
-      profileBaseUrl: https://jcsu.jesus.cam.ac.uk/
+      profileBaseUrl: ''
       logoLocation: https://cdn.discordapp.com/attachments/906112304041574410/906145061262213200/Logo.png
 

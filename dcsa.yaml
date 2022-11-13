@@ -2,7 +2,7 @@
 dcsa:
   id: dcsa
   name: Darwin College Students' Association
-  baseurl: "/"
+  baseurl: "/dcsa/"
   imageSubfolder: "/images/"
   managerClaimFormLocation: false
   typeSingular: organisation
@@ -14,5 +14,5 @@ dcsa:
   organisations:
     dcsa:
       organisationName: Darwin College Students' Association
-      profileBaseUrl: /dcsa
+      profileBaseUrl: ''
       logoLocation: https://www.dcsa.darwin.cam.ac.uk/images/logo-transparent.png

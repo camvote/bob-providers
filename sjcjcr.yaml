@@ -2,7 +2,7 @@
 sjcjcr:
   id: sjcjcr
   name: St John's College JCR
-  baseUrl: "/"
+  baseUrl: "/sjcjcr/"
   imageSubfolder: "/images/"
   managerClaimFormLocation: false
   typeSingular: organisation
@@ -14,6 +14,6 @@ sjcjcr:
   organisations:
     sjcjcr:
       organisationName: St John's College JCR
-      profileBaseUrl: https://www.sjcjcr.com/
+      profileBaseUrl: ''
       logoLocation: https://www.joh.cam.ac.uk/themes/custom/sjc/assets/logo.svg
 
