@@ -2,7 +2,7 @@
 girtonmcr:
   id: girtonmcr
   name: Girton MCR
-  baseurl: "/"
+  baseurl: "/girtonmcr/"
   imageSubfolder: "/images/"
   managerClaimFormLocation: false
   typeSingular: organisation
@@ -14,5 +14,5 @@ girtonmcr:
   organisations:
     girtonmcr:
       organisationName: Girton MCR
-      profileBaseUrl: /girtonmcr
+      profileBaseUrl: ''
       logoLocation: https://www.heraldry-wiki.com/heraldrywiki/images/b/be/Cam-girton.jpg

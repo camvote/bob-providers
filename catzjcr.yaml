@@ -2,7 +2,7 @@
 catzjcr:
   id: catzjcr
   name: St Catharine's College Junior Combination Room
-  baseUrl: "/"
+  baseUrl: "/catzjcr/"
   imageSubfolder: "/images/"
   managerClaimFormLocation: false
   typeSingular: organisation
@@ -15,5 +15,5 @@ catzjcr:
   organisations:
     sjcjcr:
       organisationName: St Catharine's College Junior Combination Room
-      profileBaseUrl: https://www.catzjcr.com/
+      profileBaseUrl: ''
       logoLocation: https://media.discordapp.net/attachments/903397629759742012/941298114034294784/St_Catharines_College_Crest_-_flat-1.png?width=381&height=467

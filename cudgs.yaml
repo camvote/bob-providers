@@ -2,7 +2,7 @@
 cudgs:
   id: cudgs
   name: CU Digital Gaming Society
-  baseurl: "/"
+  baseurl: "/cudgs/"
   imageSubfolder: "/images/"
   managerClaimFormLocation: false
   typeSingular: organisation
@@ -17,5 +17,5 @@ cudgs:
   organisations:
     rcsa:
       organisationName: CU Digital Gaming Society
-      profileBaseUrl: https://cudgs.soc.srcf.net
+      profileBaseUrl: ''
       logoLocation: https://cdn.discordapp.com/attachments/797157024810139679/906967245140410419/cudgs-text-transparent-centered.png

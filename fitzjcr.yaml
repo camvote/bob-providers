@@ -2,7 +2,7 @@
 fitzjcr:
   id: fitzjcr
   name: Fitzwilliam JCR
-  baseurl: "/"
+  baseurl: "/fitzjcr/"
   imageSubfolder: "/images/"
   managerClaimFormLocation: false
   typeSingular: organisation
@@ -16,5 +16,5 @@ fitzjcr:
   organisations:
     fitzjcr:
       organisationName: Fitzwilliam JCR
-      profileBaseUrl: /fitzjcr
+      profileBaseUrl: ''
       logoLocation: https://cdn.discordapp.com/attachments/814110758991429663/909430925824249886/256791497_174014921606274_8989386914655631232_n.jpg

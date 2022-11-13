@@ -2,7 +2,7 @@
 rcsa:
   id: rcsa
   name: Robinson College Students' Association
-  baseurl: "/"
+  baseurl: "/rcsa/"
   imageSubfolder: "/images/"
   managerClaimFormLocation: false
   typeSingular: organisation
@@ -14,5 +14,5 @@ rcsa:
   organisations:
     rcsa:
       organisationName: Robinson College Students' Association
-      profileBaseUrl: https://www.rcsa.co.uk/
+      profileBaseUrl: ''
       logoLocation: https://cdn.discordapp.com/attachments/903397629759742012/907052028700786730/GetAttachmentThumbnail.png
