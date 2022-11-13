@@ -2,7 +2,7 @@
 qjcr:
   id: qjcr
   name: Queens' College JCR
-  baseUrl: "/qjcr."
+  baseUrl: "/qjcr/"
   imageSubfolder: "/images/"
   managerClaimFormLocation: false
   typeSingular: organisation
@@ -13,7 +13,7 @@ qjcr:
   organisations:
     qjcr:
       organisationName: QJCR
-      profileBaseUrl: https://qjcr.org.uk
+      profileBaseUrl: ''
       logoLocation: https://qjcr.org.uk/content/squarelogo.png
     qjcr-test:
       organisationName: QJCR Test
