@@ -8,9 +8,7 @@ tcsu:
   typeSingular: organisation
   typeSingularUcfirst: part of tcsu
   administrators:
-    - mb2345
-    - jp869
-    - lw664
+    - CGW43
   organisations:
     tcsu:
       organisationName: Trinity College Students' Union
