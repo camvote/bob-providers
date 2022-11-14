@@ -1,0 +1,17 @@
+---
+tcsu:
+  id: tcsu
+  name: Trinity College Students' Union
+  baseUrl: "/tcsu/"
+  imageSubfolder: "/images/"
+  managerClaimFormLocation: false
+  typeSingular: organisation
+  typeSingularUcfirst: part of tcsu
+  administrators:
+    - CGW43
+  organisations:
+    tcsu:
+      organisationName: Trinity College Students' Union
+      profileBaseUrl: ''
+      logoLocation: https://i.imgur.com/a79Smjt.png
+
