@@ -1,0 +1,17 @@
+---
+culc:
+  id: culc
+  name: Cambridge University Labour Club
+  baseUrl: "/culc/"
+  imageSubfolder: "/images/"
+  managerClaimFormLocation: false
+  typeSingular: organisation
+  typeSingularUcfirst: part of CULC
+  administrators:
+    - jgh44
+  organisations:
+    culc:
+      organisationName: Cambridge University Labour Club
+      profileBaseUrl: ''
+      logoLocation: https://i.imgur.com/Nhb4BFN.jpg
+
