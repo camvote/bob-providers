@@ -1,0 +1,19 @@
+---
+girtonjcr:
+  id: girtonjcr
+  name: Girton JCR
+  baseurl: "/girtonjcr/"
+  imageSubfolder: "/images/"
+  managerClaimFormLocation: false
+  typeSingular: organisation
+  typeSingularUcfirst: part of the University
+  administrators:
+    - mb2345
+    - cjh241
+    - kc575
+    - hg469
+  organisations:
+    girtonjcr:
+      organisationName: Girton JCR
+      profileBaseUrl: ''
+      logoLocation: https://cdn.discordapp.com/attachments/583632158560747521/910890158457491506/GetAttachmentThumbnail.png
