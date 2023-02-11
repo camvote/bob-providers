@@ -8,9 +8,7 @@ cumfs:
   typeSingular: organisation
   typeSingularUcfirst: part of the University
   administrators:
-    - mb2345
-    - bpc38
-    - lw664
+    - acm236
   organisations:
     cumfs:
       organisationName: Cambridge University Motorsport Fans Society
