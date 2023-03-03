@@ -1,0 +1,17 @@
+---
+lucymcr:
+  id: lucymcr
+  name: Lucy Cavendish MCR
+  baseUrl: "/"
+  imageSubfolder: "/images/"
+  managerClaimFormLocation: false
+  typeSingular: organisation
+  typeSingularUcfirst: part of Lucy Cav MCR
+  administrators:
+    - jd2021
+    - nkk30
+  organisations:
+    lucyjcr:
+      organisationName: Lucy Cavendish MCR
+      profileBaseUrl: lucymcr/
+      logoLocation: https://cdn.discordapp.com/attachments/583632158560747521/1081236949001568386/thumbnail_Image.jpg
