@@ -10,7 +10,7 @@ asnac:
   administrators:
     - wmbm2
   organisations:
-    cumfs:
+    asnac:
       organisationName: Anglo-Saxon, Norse and Celtic Society
       profileBaseUrl: ''
       logoLocation: https://i.imgur.com/g15bAdP.png
