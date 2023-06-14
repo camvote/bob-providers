@@ -1,0 +1,18 @@
+---
+qmcr:
+  id: qmcr
+  name: Queens' College MCR
+  baseUrl: "/qmcr/"
+  imageSubfolder: "/images/"
+  managerClaimFormLocation: false
+  typeSingular: organisation
+  typeSingularUcfirst: part of the University
+  administrators:
+    - ml940
+    - jc2205
+    - rtg24
+  organisations:
+    qmcr:
+      organisationName: QMCR
+      profileBaseUrl: ''
+      logoLocation: https://cdn.discordapp.com/attachments/583632158560747521/1118638889381396480/thumbnail_QMCR_logo.png
