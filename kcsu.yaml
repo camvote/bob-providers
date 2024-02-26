@@ -8,9 +8,6 @@ kcsu:
   typeSingular: organisation
   typeSingularUcfirst: part of the University
   administrators:
-    - ahrf2
-    - bs639
-    - tcwp2
     - dke24
   organisations:
     kcsu:
