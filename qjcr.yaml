@@ -10,10 +10,9 @@ qjcr:
   administrators:
     - bpc38
     - mb2345
-    - gde25
-    - eb877
     - pr505
     - el598
+    - ip401
   organisations:
     qjcr:
       organisationName: QJCR
