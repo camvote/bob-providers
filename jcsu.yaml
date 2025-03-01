@@ -8,7 +8,7 @@ jcsu:
   typeSingular: organisation
   typeSingularUcfirst: part of JCSU
   administrators:
-    - gmd51
+    - gw464
   organisations:
     jcsu:
       organisationName: Jesus College Student Union
