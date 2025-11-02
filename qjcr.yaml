@@ -8,11 +8,10 @@ qjcr:
   typeSingular: organisation
   typeSingularUcfirst: part of the University
   administrators:
-    - bpc38
-    - mb2345
-    - pr505
-    - el598
-    - ip401
+    - es2094
+    - vcc31
+    - ym441
+    - tsg36
   organisations:
     qjcr:
       organisationName: QJCR
