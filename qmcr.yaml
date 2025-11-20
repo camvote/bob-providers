@@ -8,9 +8,9 @@ qmcr:
   typeSingular: organisation
   typeSingularUcfirst: part of the University
   administrators:
-    - ml940
-    - jc2205
-    - rtg24
+    - ij274
+    - smi35
+    - ad2093
   organisations:
     qmcr:
       organisationName: QMCR
